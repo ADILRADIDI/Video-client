@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hey how are you im adil radidi im software enginnner at Meta 
+=======
+Hallo ich bin Adil Radidi , ich bin webentweckler 
+>>>>>>> test
